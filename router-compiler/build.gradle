@@ -1,7 +1,27 @@
 plugins {
     alias(libs.plugins.kotlin.jvm)
+    id 'maven-publish'
+}
+
+kotlin {
+    jvmToolchain(21)
+}
+
+java {
+    withSourcesJar()
 }
 
 dependencies {
     implementation libs.ksp.api
+}
+
+publishing {
+    publications {
+        mavenJava(MavenPublication) {
+            from components.java
+            groupId = 'com.github.bchstring-glitch.AouterMy'
+            artifactId = 'router-compiler'
+            version = (project.version != null && project.version != 'unspecified') ? project.version : '1.0.0'
+        }
+    }
 }
