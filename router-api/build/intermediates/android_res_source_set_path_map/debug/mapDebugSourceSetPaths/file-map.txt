@@ -1,0 +1,9 @@
+com.shanghaizhida.router.router-api-pngs-0 C:\Users\admin\StudioProjects\ZD\NewApp-DA-Android\router-api\build\generated\res\pngs\debug
+com.shanghaizhida.router.router-api-updated_navigation_xml-1 C:\Users\admin\StudioProjects\ZD\NewApp-DA-Android\router-api\build\generated\updated_navigation_xml\debug
+com.shanghaizhida.router.router-api-mergeDebugResources-2 C:\Users\admin\StudioProjects\ZD\NewApp-DA-Android\router-api\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.shanghaizhida.router.router-api-mergeDebugResources-3 C:\Users\admin\StudioProjects\ZD\NewApp-DA-Android\router-api\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.shanghaizhida.router.router-api-debug-4 C:\Users\admin\StudioProjects\ZD\NewApp-DA-Android\router-api\build\intermediates\merged_res\debug\mergeDebugResources
+com.shanghaizhida.router.router-api-debug-5 C:\Users\admin\StudioProjects\ZD\NewApp-DA-Android\router-api\build\intermediates\packaged_res\debug\packageDebugResources
+com.shanghaizhida.router.router-api-debug-6 C:\Users\admin\StudioProjects\ZD\NewApp-DA-Android\router-api\src\debug\res
+com.shanghaizhida.router.router-api-main-7 C:\Users\admin\StudioProjects\ZD\NewApp-DA-Android\router-api\src\main\res
+gradleHome-0 C:\Users\admin\.gradle

@@ -1,0 +1,26 @@
+<dependencies>
+  <compile
+      roots=":@@:router-api::debug,org.jetbrains.kotlin:kotlin-stdlib:2.2.10@jar,org.jetbrains:annotations:13.0@jar">
+    <dependency
+        name=":@@:router-api::debug"
+        simpleName="NewApp-DA-Android:router-api"/>
+    <dependency
+        name="org.jetbrains.kotlin:kotlin-stdlib:2.2.10@jar"
+        simpleName="org.jetbrains.kotlin:kotlin-stdlib"/>
+    <dependency
+        name="org.jetbrains:annotations:13.0@jar"
+        simpleName="org.jetbrains:annotations"/>
+  </compile>
+  <package
+      roots=":@@:router-api::debug,org.jetbrains.kotlin:kotlin-stdlib:2.2.10@jar,org.jetbrains:annotations:13.0@jar">
+    <dependency
+        name=":@@:router-api::debug"
+        simpleName="NewApp-DA-Android:router-api"/>
+    <dependency
+        name="org.jetbrains.kotlin:kotlin-stdlib:2.2.10@jar"
+        simpleName="org.jetbrains.kotlin:kotlin-stdlib"/>
+    <dependency
+        name="org.jetbrains:annotations:13.0@jar"
+        simpleName="org.jetbrains:annotations"/>
+  </package>
+</dependencies>
